@@ -1,0 +1,16 @@
+   # Maven / NetBeans
+   target/
+   build/
+   dist/
+   nbproject/private/
+
+   # Compiled class file
+   *.class
+
+   # Log file
+   *.log
+
+   # Package files
+   *.jar
+   *.war
+   *.zip
